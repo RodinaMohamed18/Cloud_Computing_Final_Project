@@ -10,7 +10,7 @@ This project is built as part of the Cloud Computing course and demonstrates ful
 *Smart File Sharing System* is a cloud-native web app that enables users to seamlessly upload, download, and manage their files through a sleek browser interface. It leverages core AWS services to deliver performance, scalability, and security.
 
 Built with:
-- *Node.js + Express.js* backend hosted on EC2  
+- *Flask Python* backend hosted on EC2  
 - *Amazon S3* for durable and scalable file storage  
 - *IAM* for secure access control  
 - *VPC* for private networking  
