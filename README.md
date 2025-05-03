@@ -74,11 +74,6 @@ Built with:
 
 ---
 
-- *Drive Link:*
-https://drive.google.com/file/d/1A5fK4JQgDUH7oINnupxYirtG9nonPiql/view?usp=sharing
-
----
-
 ## ✅ Final Thoughts
 
 This project demonstrates a real-world application of cloud computing concepts, integrating key AWS services to build a secure and efficient platform for file management. It’s lightweight, scalable, and ready for future enhancements.
