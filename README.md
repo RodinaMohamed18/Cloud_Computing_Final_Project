@@ -28,11 +28,6 @@ The web application allows users to upload and download files securely via a Fla
 ## Demo
 
 - *Live Demo:* [http://34.228.158.194](http://34.228.158.194)  
-- *Project Report:* [Cloud Computing Final Report (PDF)](./Cloud_Computing_Final_Project.pdf)
-
-## Screenshots
-(You can add screenshots of your interface or EC2 setup here)
-
----
-
-*Note:* This project was developed for academic purposes and demonstrates basic cloud deployment for educational use.
+- *Drive Link:*
+https://drive.google.com/file/d/1A5fK4JQgDUH7oINnupxYir
+tG9nonPiql/view?usp=sharing
