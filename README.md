@@ -31,8 +31,6 @@ Built with:
 
 ## 🧱 Architecture Diagram
 
-![Architecture](./architecture.png)
-
 > A web user communicates with a backend server hosted on EC2. That server interacts securely with S3 buckets inside a protected VPC, using IAM roles. Route 53 handles DNS routing for public access.
 
 ---
